@@ -4,7 +4,7 @@
   "description": "Chat App using Node JS and Socket.io",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "Akshay Kashid",
   "license": "ISC",
